@@ -1,8 +1,6 @@
 # hello!
 This is a meta-repository to explain how I organize my GitHub repositories
 
-![Repoception](https://i.imgur.com/SOJSg5p.png)
-
 Just for sanity i've decided to use *organizations* to *tidy-up* and *classify-by-matters* all my GitHub thingies.
 
 ### https://github.com/omik-fcc 
@@ -30,13 +28,10 @@ My landing page, with links to Linkedin, Twitter, GitHub and my Blog.
 
 
 
+----
+
 If you are still reading this...
 
 ### You're breathtaking!
 
-
-
-
-
-
-
+![Repoception](https://i.imgur.com/SOJSg5p.png)
