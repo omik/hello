@@ -3,6 +3,10 @@ This is a meta-repository to explain how I organize my GitHub repositories
 
 Just for sanity i've decided to use *organizations* to *tidy-up* and *classify-by-matters* all my GitHub thingies.
 
+### https://palabraderoot.github.io
+
+A humble blog about NetSec, Open Source and "do it yourself" tech projects. (In Spanish)
+
 ### https://github.com/omik-fcc 
 
 All projects and certifications from the **FreeCodeCamp Full Stack Developer Path**. It includes
@@ -25,8 +29,6 @@ Also some challenges from **CheckiO**
 ### https://omik.github.io
 
 My landing page, with links to Linkedin, Twitter, GitHub and my Blog.
-
-
 
 ----
 
